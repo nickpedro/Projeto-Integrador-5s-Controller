@@ -43,7 +43,7 @@ Geovana Simão Sousa https://github.com/geovanasimaosousa
 <br>
 Jandira Pires https://github.com/piresjandira?tab=repositories
 <br>
-Pedro Henrique Salomão Ventura
+Pedro Henrique Salomão Ventura https://github.com/nickpedro
 <br>
 Vinícius Villela https://github.com/Villela123
 <br>
