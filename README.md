@@ -1,0 +1,2 @@
+# Projeto-Integrador-5s-Controller
+Controller 5S API foi pensado para as pequenas e médias empresas de qualquer segmento. Ele faz o controle do estoque cadastrando o produto, fornecedor e datas de recebimento. O sistema pode ser personalizado quanto a cores e logos e tem um alerta visual quando seu estoque estiver baixo. O sistema foi desenvolvido em modo web responsivo, reduzindo custos e trazendo praticidade.
