@@ -43,7 +43,7 @@ Geovana Simão Sousa https://github.com/geovanasimaosousa
 <br>
 Jandira Pires https://github.com/piresjandira?tab=repositories
 <br>
-Pedro Henrique Salomão Ventura https://github.com/nickpedro
+Pedro Henrique Salomão Ventura
 <br>
 Vinícius Villela https://github.com/Villela123
 <br>
@@ -52,3 +52,4 @@ Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE.md
 
 # Agradecimentos
 Todos os integrantes do grupo e docentes do Senac-Tatuapé.
+

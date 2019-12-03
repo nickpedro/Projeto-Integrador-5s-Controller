@@ -1,0 +1,17 @@
+#login{
+    display: block;
+    margin-left: 37%;
+    margin-right: 37%;
+}
+
+@media screen and (max-width: 480px){
+
+
+    #login{
+        display: block;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+
+}

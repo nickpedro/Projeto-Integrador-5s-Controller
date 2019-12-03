@@ -1,0 +1,5 @@
+	String url = "jdbc:mysql://10.26.45.157:3306/adega?serverTimezone=UTC";
+		
+		String user = "root";
+		
+		String password = "pti@2018";
